@@ -7,7 +7,7 @@ import sendLogo from '../../images/send.png';
 import closeIcon from '../../images/closeIcon.png';
 import ReactScrolToBottom from 'react-scroll-to-bottom'
 
-const ENDPOINT = "http://localhost:8080";
+const ENDPOINT = "https://chat-app-production-814b.up.railway.app/";
 
 
 
